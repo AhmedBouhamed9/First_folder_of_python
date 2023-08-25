@@ -1,0 +1,11 @@
+print(1!=7)
+print(1<=7)
+print(1<7)
+print("rahim"=="selmi")
+print("rahim"=="rahim")
+print("rahim"!="selmi")
+print("rahim"=="Rahim")
+#how to know the unicode of a letter  
+print(ord("r"))
+print(ord("R"))
+print(chr(114))
